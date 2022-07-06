@@ -1,0 +1,25 @@
+{
+  "name": "expansion_react_homework1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metatsushi/expansion_react1_homework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/metatsushi/expansion_react1_homework/issues"
+  },
+  "homepage": "https://github.com/metatsushi/expansion_react1_homework#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19",
+    "socket.io": "^4.5.1"
+  }
+}
